@@ -1,6 +1,6 @@
-# 🚀 Vibe Engineering Lab: Scaling AI-Native Development
+# 🚀 AI Native Development Lab: Scaling AI-Native Development
 
-> **From Vibe Coding to Vibe Engineering**: Learn to build structured AI workflows with VS Code and GitHub Copilot
+> **From Vibe Coding to AI Native Development**: Learn to build structured AI workflows with VS Code and GitHub Copilot
 
 [![VS Code](https://img.shields.io/badge/VS%20Code-1.96+-blue?logo=visualstudiocode)](https://code.visualstudio.com/)
 [![GitHub Copilot](https://img.shields.io/badge/GitHub%20Copilot-Required-green?logo=github)](https://github.com/features/copilot)
@@ -476,4 +476,4 @@ This lab is provided for educational purposes. Feel free to adapt for your team'
 
 ---
 
-**Happy Vibe Engineering! 🎉**
+**Happy AI Native Development! 🎉**
